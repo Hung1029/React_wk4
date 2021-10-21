@@ -1,0 +1,29 @@
+[
+    {
+        "id": "item1",
+        "title": "寵物咖啡廳",
+        "text1": "Heal",
+        "text2": "ing",
+        "picture": "./image/02.jpg",
+        "content": "讓活潑可愛的毛小孩來治癒身心",
+        "color": ""
+    },
+    {
+        "id": "item2",
+        "text1": "Relax",
+        "text2": "ing",
+        "title": "最新消息",
+        "picture": "./image/01.jpg",
+        "content": "享受輕鬆的氣氛",
+        "color": ""
+    },
+    {
+        "id": "item3",
+        "text1": "Comfort",
+        "text2": "ing",
+        "title": "精選菜單",
+        "picture": "./image/03.jpg",
+        "content": "來杯熱可可暖和吧!",
+        "color": ""
+    }
+]
